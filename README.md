@@ -4,6 +4,10 @@
 
 This project demonstrates a simple **Kafka Producer-Consumer** implementation using Python. The producer sends stock market data to a Kafka topic, while the consumer reads messages and stores them in **Amazon S3**. The data stored in S3 is then analyzed using **AWS Glue Crawler** and **Amazon Athena**.
 
+
+## Data Pipeline Architecture
+![Kafka Data Pipeline](https://github.com/ShreemoyN97/Kafka_Stock_Market_Project/blob/main/Kafka-Pipeline.png)
+
 ## Prerequisites
 
 Ensure you have the following installed on your **EC2 instance**:
