@@ -1,4 +1,4 @@
-# Kafka Producer-Consumer Project
+# Kafka Stock Market Project
 
 ## Overview
 
